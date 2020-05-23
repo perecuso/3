@@ -1,0 +1,10 @@
+4x4
+Jugadores: 2
+Longitud Nombre: 5
+Nombre: Manel
+V: 2
+P: 3
+Longitud Nombre: 9
+Nombre: Alejandra
+V: 4
+P: 3

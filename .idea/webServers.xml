@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="05522611-a407-46fa-a700-90079fe0d14d" name="matagalls">
+        <fileTransfer rootFolder="/users/home/staff/GRUPCSI/pere.cuso" accessType="SFTP" host="montserrat.salle.url.edu" port="22" sshConfigId="8b28dcad-ce22-407b-9c87-d0e266d9f9bc" sshConfig="Matagalls">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

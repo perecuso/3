@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pcv/CLionProjects/Entregas/3/file.c
+stdio.h
+-
+stdlib.h
+-
+file.h
+C:/Users/pcv/CLionProjects/Entregas/3/file.h
+
+C:/Users/pcv/CLionProjects/Entregas/3/file.h
+menu.h
+C:/Users/pcv/CLionProjects/Entregas/3/menu.h
+tipos.h
+C:/Users/pcv/CLionProjects/Entregas/3/tipos.h
+
+C:/Users/pcv/CLionProjects/Entregas/3/menu.h
+tipos.h
+C:/Users/pcv/CLionProjects/Entregas/3/tipos.h
+file.h
+C:/Users/pcv/CLionProjects/Entregas/3/file.h
+
+C:/Users/pcv/CLionProjects/Entregas/3/tipos.h
+stdio.h
+-
+string.h
+-
+menu.h
+C:/Users/pcv/CLionProjects/Entregas/3/menu.h
+file.h
+C:/Users/pcv/CLionProjects/Entregas/3/file.h
+
